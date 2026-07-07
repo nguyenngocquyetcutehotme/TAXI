@@ -1,0 +1,6 @@
+{
+  "name": "Taxi Tiện Chuyến",
+  "description": "Ứng dụng đặt xe Limousine Hà Nội - Thanh Hóa: Đẳng cấp, Uy tín, Tiện lợi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
